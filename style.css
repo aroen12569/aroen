@@ -1,0 +1,60 @@
+h1
+{
+    color: red;
+}
+
+h2
+{
+    color: red;
+}
+
+
+body 
+{
+    background-color: black;
+}
+
+#carte
+{
+
+        width: 800px;
+        margin:0 auto;
+        background-color: black;
+        text-align: center;
+        align-content: center;
+}
+
+#refund
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+
+}
+
+#scam 
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: green;
+    text-align: center;
+    align-content: center;
+
+}
+
+#avertissement
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: blanchedalmond;
+    text-align: center;
+    align-content: center;
+
+}
+
+h3
+{
+    color: rgb(62, 20, 139);
+}
